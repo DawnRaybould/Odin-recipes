@@ -1,0 +1,46 @@
+*,
+*::before,
+*::after {
+  box-sizing: inherit;}
+  body {
+    background-color:rgb(111, 88, 132);
+  }
+  
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(221, 200, 235);
+}
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+.box {
+    margin: 0 auto;
+    
+    padding: 20px;
+}
+.links {
+    margin: 0 auto;
+    border: 2 px solid purple;
+    
+    
+    
+}
+p{
+    color: rgb(221, 200, 235);
+    font-family: sans-serif;
+}
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+   color:rgb(197, 174, 221)
+}
+a:hover {
+    color:rgb(49, 4, 91);
+}
